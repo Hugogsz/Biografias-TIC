@@ -1,0 +1,74 @@
+﻿body {
+	background:#FDFEFE;
+}
+
+
+p {
+	color:#030202;
+	font-family:Arial;
+	text-align:justify;
+	margin:15px;
+	font-size:14px;
+}
+
+
+h1 {
+	color:#A93226;
+	font-family:Cambria;
+	text-align:center;
+}
+
+h2 {
+	color:#030202;
+	font-family:Cambria;
+	text-align:left;
+}
+
+
+h3 {
+	color:#030202;
+	font-family:Cambria;
+	text-align:left;
+
+
+
+table {
+	font-family:Times New Roman;
+	font-size:14px;
+	border-style:none;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+caption {
+	font-family:Arial;
+	font-size:24px;
+	font-weigth:bold;
+}
+
+ol {
+	font-family:Arial;
+	font-size:14px;
+	list-style-type:1;
+	text-align:left;
+}
+
+ul {
+	font-familiy:Arial;
+	font-size:14px;
+	list-style-type:circle;
+	text-align:left;
+}
+
+a {
+	target:blank;
+	font-familiy:Times New Roman;
+	font-size:14px;
+}
+
+iframe {
+	width:750;
+	heigth:400;
+	title:YouTube video player;
+	frameborder:0;
+	allow:accelerometer, autoplay, clipboard-write, encrypted-media, gyroscope, picture-in-picture;

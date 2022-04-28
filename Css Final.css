@@ -30,7 +30,7 @@ h3 {
 	font-family:Cambria;
 	text-align:left;
 
-
+}
 
 table {
 	font-family:Times New Roman;
@@ -72,3 +72,4 @@ iframe {
 	title:YouTube video player;
 	frameborder:0;
 	allow:accelerometer, autoplay, clipboard-write, encrypted-media, gyroscope, picture-in-picture;
+}

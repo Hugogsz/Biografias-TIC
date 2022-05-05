@@ -1,4 +1,4 @@
-﻿body {
+body {
 	background:#D2B4DE ;
 }
 
@@ -72,3 +72,7 @@ iframe {
 	frameborder:0;
 	allow:accelerometer, autoplay, clipboard-write, encrypted-media, gyroscope, picture-in-picture;
 	}
+
+img {
+	width:250px;
+}
